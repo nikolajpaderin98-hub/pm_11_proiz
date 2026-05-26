@@ -1,0 +1,20 @@
+﻿SchoolClubsApp
+
+
+winexe
+C#
+.cs
+C:\Users\Николай\OneDrive\Desktop\Производственная практики ПМ 11\программа\SchoolClubsApp\SchoolClubsApp\obj\Debug\
+SchoolClubsApp
+none
+false
+DEBUG;TRACE
+C:\Users\Николай\OneDrive\Desktop\Производственная практики ПМ 11\программа\SchoolClubsApp\SchoolClubsApp\App.xaml
+10-91447583
+
+17-710139126
+13-946294123
+Styles\ModernStyle.xaml;Views\AddStudentWindow.xaml;Views\AddTeacherWindow.xaml;Views\AttendanceWindow.xaml;Views\ClubsWindow.xaml;Views\EditAttendanceWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\StudentsWindow.xaml;Views\TeachersWindow.xaml;
+
+True
+
